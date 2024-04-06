@@ -1,0 +1,8 @@
+#Paper
+SOLVING LINEAR INVERSE PROBLEMS USING GAN PRIORS: AN ALGORITHM WITH PROVABLE GUARANTEES
+#Author
+Viraj Shah and Chinmay Hegde
+#Journal
+ICASSP 2018
+#notes
+精读。本文主要研究了使用GAN先验解决线性逆问题，并为本文所提出的算法提供了收敛性证明。
