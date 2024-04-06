@@ -1,8 +1,9 @@
-#Paper
+#**Paper**
 SOLVING LINEAR INVERSE PROBLEMS USING GAN PRIORS: AN ALGORITHM WITH PROVABLE GUARANTEES
-#Author
+#**Author**
 Viraj Shah and Chinmay Hegde
-#Journal
+#**Journal**
 ICASSP 2018
-#notes
-精读。本文主要研究了使用GAN先验解决线性逆问题，并为本文所提出的算法提供了收敛性证明。
+#**Notes**
+精读。本文主要研究了使用GAN先验解决线性逆问题，并为本文所提出的算法提供了收敛性证明。线性逆问题的基本结构可以用以下形式的线性方程表示：
+$$y=Ax^*+e$$
